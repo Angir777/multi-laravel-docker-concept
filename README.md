@@ -1,5 +1,7 @@
 # multi-laravel-docker-concept
 
+Koncept zawierajacy dwa osobne projekty laravelowe, które komunikują się między sobą.
+
 ## Routing ONE
 
 Zwrócenie danych z aktualnego API: 
